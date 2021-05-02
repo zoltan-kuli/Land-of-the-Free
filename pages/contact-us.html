@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Land of the Free - Contact Us</title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="The USA and her sister, Canada, are the greatest nations on Earth. This site is about the United States of America, the Land of the Free.">
+    <meta name="keywords" content="USA, United States of America, Contact Us">
+    <meta name="author" content="Zoltan Kuli">
+
+    <meta property="og:title" content="Land of the Free - Contact Us">
+    <meta property="og:description" content="Contact Us">
+    <link rel="image_src" href="https://people.inf.elte.hu/gshkd4/images/decorations/Flag">
+    <meta property="og:image" content="https://people.inf.elte.hu/gshkd4/images/decorations/Flag">
+    <meta property="og:url" content="https://people.inf.elte.hu/gshkd4/pages/contact-us">
+    <meta name="twitter:card" content="https://people.inf.elte.hu/gshkd4/images/decorations/Flag">
+
+    <meta property="og:site_name" content="Land of the Free">
+    <meta name="twitter:image:alt" content="USA Flag">
+
+    <link rel="icon" href="../images/decorations/Favicon.ico">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+    <link href="../css/style.css" rel="stylesheet">
+  </head>
+  
+  <body>
+    <header>
+      <nav id="skip-nav">
+        <a href="#content">Skip to content</a>
+      </nav>
+
+      <nav>
+        <div class="nav-logo">
+          <a href="../index.html">Land of the Free</a>
+        </div>
+        <ul class="nav-links">
+          <li>
+            <a href="../index.html">Home</a>
+          </li>
+          <li>
+            <a href="../pages/greatest-nation.html">Greatest Nation</a>
+          </li>
+          <li>
+            <a href="../pages/top-states.html">Top States</a>
+          </li>
+          <li>
+            <a href="../pages/landmarks.html">Landmarks</a>
+          </li>
+          <li>
+            <a class="nav-link-active" href="../pages/contact-us.html">Contact Us</a>
+          </li>
+        </ul>
+
+        <div class="burger">
+          <div id="line1"></div>
+          <div id="line2"></div>
+          <div id="line3"></div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="content">
+      <aside>
+        <button onclick="topFunction()" class="go-to-top-btn" title="Go to top">Top</button>
+      </aside>
+      
+      <header>
+        <h1>Contact Us</h1>
+        <hr>
+      </header>
+
+      <div class="contact-section">
+        <p class="article-p-justify">
+          In case you would like to contribute to our website, have a suggesstion, or you would like to contact us about any other matter, please feel free to send us a message. We will try to get back to you as soon as possible.
+        </p>
+
+        <br>
+
+        <form method="post" action="/action_page.php">
+          <label class="contact-label" for="firstname">First Name</label>
+          <input type="text" id="firstname" name="firstname" placeholder="Your first name" maxlength="254">
+
+          <label class="contact-label" for="lastname">Last Name</label>
+          <input type="text" id="lastname" name="lastname" placeholder="Your last name" maxlength="254">
+
+          <label class="contact-label" for="email">Email</label>
+          <input type="text" id="email" name="email" placeholder="Your email address" maxlength="254">
+
+          <label class="contact-label">Reason for Contacting Us</label>
+          <div class="contact-radio">
+            <input type="radio" name="reason" value="contribution" id="v1" checked>
+            <label for="v1">Contribution</label>
+            <input type="radio" name="reason" value="suggesstion" id="v2">
+            <label for="v2">Suggesstion</label>
+            <input type="radio" name="reason" value="other" id="v3">
+            <label for="v3">Other</label>
+          </div>
+
+          <label class="contact-label" for="message">Message</label>
+          <textarea class="contact-message" id="message" name="message" placeholder="Please enter your message" maxlength="2540"></textarea>
+
+          <label class="contact-label"><input type="checkbox" name="copy"> Send a copy to my e-mail address</label><br>
+
+          <div class="contact-buttons">
+            <input type="reset" value="Reset">
+            <input type="submit" value="Submit">
+          </div>
+
+        </form>
+      </div>
+    </main>
+
+    <footer>
+      <div>
+        <a>Designed by Zoltan Kuli</a>
+      </div>
+    </footer>
+
+    <script src="../scripts/app.js"></script>
+  </body>
+</html>
