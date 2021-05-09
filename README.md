@@ -5,7 +5,7 @@ We had a free choice of the topic of our site, so I decided to dedicated it to t
 
 With this project, my main challenge was to make my ideas come to life in a way I thought was right while also obeying the constraints and guidelines that we had to follow to get a good mark.
 
-I would probably also approach this project differently now, and I could have definitely made some things better.
+I would probably approach this project differently now, and I could have definitely made some parts of it better.
 
 However, fortunately, the website turned out alright all in all, and I managed to exceed the requirements.
 
