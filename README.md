@@ -1,5 +1,6 @@
 # The Story Behind Land of the Free
-Land of the Free is my first website, which I made for a class in the spring of 2020.
+
+Land of the Free was my first website, which I made for a class in the spring of 2020.
 
 We had a free choice of the topic of our site, so I decided to dedicated it to the United States because it has been my dream to move there ever since I was a little kid.
 
