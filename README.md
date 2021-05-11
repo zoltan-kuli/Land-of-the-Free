@@ -10,6 +10,6 @@ I would probably approach this project differently now, and I could have definit
 
 However, fortunately, the website turned out alright all in all, and I managed to exceed the requirements.
 
-Furthermore, I learned a lot about the importance of optimizing for different screen sizes and different devices. And I got an appreciation for how difficult it really is to get it right.
+Furthermore, I learned a lot about the importance of optimizing for different screen sizes and resolutions. And I got an appreciation for how difficult it really is to get it right.
 
 Also, as I mentioned, this was my first website, and it was a fun experience to learn HTML and CSS.
