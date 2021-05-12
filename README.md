@@ -2,7 +2,7 @@
 
 Land of the Free was my first website, which I made for my first web development class in the spring of 2020.
 
-We had a free choice of the topic of our site, so I decided to dedicated it to the United States because it has been my dream to move there ever since I can remember.
+We had a free choice of the topic for our site, so I decided to dedicated it to the United States because it has been my dream to move there ever since I can remember.
 
 With this project, my main challenge was to make my ideas come to life in a way I thought was right while also obeying the constraints and guidelines that we had to follow to get a good mark.
 
