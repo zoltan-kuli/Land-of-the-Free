@@ -13,3 +13,5 @@ However, fortunately, the website turned out alright all in all, and I managed t
 Furthermore, I learned a lot about the importance of optimizing for different screen sizes and resolutions. And I got an appreciation for how difficult it really is to get it right.
 
 Also, as I mentioned, this was my first website, and it was a fun experience to learn HTML and CSS.
+
+You can visit Land of the Free using [this link](https://people.inf.elte.hu/gshkd4/).
