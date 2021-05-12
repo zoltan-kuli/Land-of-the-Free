@@ -8,7 +8,7 @@ With this project, my main challenge was to make my ideas come to life in a way 
 
 I would probably approach this project differently now, and I could have definitely made some parts of it better.
 
-However, fortunately, the website turned out nice, and I managed to exceed the requirements.
+However, fortunately, the website turned out great, and I managed to exceed the requirements.
 
 Furthermore, I learned a lot about the importance of optimizing for different screen sizes and resolutions. And I got an appreciation for how difficult it really is to get it right.
 
