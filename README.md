@@ -17,4 +17,4 @@ You can visit Land of the Free using [this link](https://people.inf.elte.hu/gshk
 * WinSCP
 
 # Impact
-* Land of the Free exceeded the requirements, and the people I showed it to enjoyed exploring it.
+Land of the Free exceeded the requirements, and the people I showed it to enjoyed exploring it.
