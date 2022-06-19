@@ -1,5 +1,5 @@
 # Land of the Free
-Land of the Free was my first-ever website, which I made for my Web Development I class during the spring of 2020.
+Land of the Free is my first-ever website, which I made for my Web Development I class during the spring of 2020.
 
 My goal was to create an informative website about the USA.
 
